@@ -1,16 +1,17 @@
-id: opecha:P007922
+id: P007922
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ2512
   title: འཁོར་ལོ་སྡོམ་པ་དྲིལ་བུ་ཕྱི་ནང་གི་བསྙེན་པ་བྱ་ཚུལ་གྱི་ཡི་གེ་མཁའ་འགྲོའི་གསང་མཛོད།
-  volume:
+  author: ''
+  volumes:
     faab0dc54d694e6fa71bb6d47b677863:
       image_group_id: I1KG1689
       title: Volume 1 of 'khor lo sdom pa dril bu phyi nang gi bsnyen pa bya tshul
         gyi yi ge mkha' 'gro'i gsang mdzod
       volume_number: 1
       total_pages: 567
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: འཁོར་ལོ་སྡོམ་པ་དྲིལ་བུ་ཕྱི་ནང་གི་བསྙེན་པ་བྱ་ཚུལ་གྱི་ཡི་གེ་མཁའ་འགྲོའི་གསང་མཛོད།
   author: ''
